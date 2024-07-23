@@ -1,0 +1,58 @@
+.MouseFollower{
+    position: fixed;
+    width: 35px;
+    height: 35px;
+    top: -100px;
+    left: -100px;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 200;
+    mix-blend-mode: difference;
+    display: grid;
+    place-content: center;
+    pointer-events: none;
+    
+    box-shadow: 0 0 15px rgba(0, 255, 128, 0.7), 0 0 15px rgba(0, 255, 128, 0.4), 0 0 25px rgba(0, 255, 128, 0.3);
+}
+
+
+.MouseFollower > div{
+    width: 12px;
+    aspect-ratio: 1;
+    background-color: rgba(0, 255, 128, 0.7);
+    box-shadow: 0 0 15px #00f260, 0 0 25px #00f260, 0 0 35px #00f260;
+  border-radius: 50%;
+  animation: pulse 2s infinite;
+}
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 10px #00f260, 0 0 20px #00f260, 0 0 30px #00f260;
+  }
+  50% {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px #00f260, 0 0 30px #00f260, 0 0 40px #00f260;
+  }
+  100% {
+    transform: scale(1);
+    box-shadow: 0 0 10px #00f260, 0 0 20px #00f260, 0 0 30px #00f260;
+  }
+}
+@media (max-width: 1500px) {
+    .MouseFollower{
+        width: 25px;
+        height: 25px;
+    }
+    
+    .MouseFollower > div{
+        width: 8px;
+    }
+  }
+
+
+  @media (max-width: 700px) {
+    .MouseFollower{
+        display: none;
+    }
+  }
