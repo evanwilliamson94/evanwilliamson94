@@ -12,8 +12,8 @@ About Me With over 3 years of experience in HTML5, CSS3, JavaScript, TypeScript,
 </p>
 
 <div align="center">
-  <a href="https://www.github.com/evanwilliamson94" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <div style="display: inline-block; margin: 10px; padding: 10px; border: 2px solid #e1e4e8; border-radius: 8px; transition: transform 0.2s;">
+  <a href="https://www.github.com/evanwilliamson94" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin: 10px;">
+    <div style="padding: 10px; border: 2px solid #e1e4e8; border-radius: 8px; transition: transform 0.2s;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
@@ -21,8 +21,8 @@ About Me With over 3 years of experience in HTML5, CSS3, JavaScript, TypeScript,
       </picture>
     </div>
   </a>
-  <a href="https://www.linkedin.com/in/evanwcodes" target="_blank" rel="noreferrer" style="text-decoration: none;">
-    <div style="display: inline-block; margin: 10px; padding: 10px; border: 2px solid #e1e4e8; border-radius: 8px; transition: transform 0.2s;">
+  <a href="https://www.linkedin.com/in/evanwcodes" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin: 10px;">
+    <div style="padding: 10px; border: 2px solid #e1e4e8; border-radius: 8px; transition: transform 0.2s;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
@@ -31,3 +31,4 @@ About Me With over 3 years of experience in HTML5, CSS3, JavaScript, TypeScript,
     </div>
   </a>
 </div>
+
