@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 
 <h2>About Me</h2>
-<p>With over <strong style="color: #4CAF50;">3 years of experience</strong> in <strong>HTML5, CSS3, JavaScript, TypeScript, React, Redux, and Firebase</strong>, I have successfully developed and maintained various web applications. My work is characterized by a focus on <strong style="color: #2196F3;">responsive design</strong>, <strong style="color: #2196F3;">user-friendly interfaces</strong>, and <strong style="color: #2196F3;">performance optimization</strong>.</p>
+<p>With over <strong style="color: #4CAF50;">5 years of experience</strong> in <strong>HTML5, CSS3, JavaScript, TypeScript, React, Redux, and Firebase</strong>, I have successfully developed and maintained various web applications. My work is characterized by a focus on <strong style="color: #2196F3;">responsive design</strong>, <strong style="color: #2196F3;">user-friendly interfaces</strong>, and <strong style="color: #2196F3;">performance optimization</strong>.</p>
 
 <h3>Key Accomplishments</h3>
 <ul>
