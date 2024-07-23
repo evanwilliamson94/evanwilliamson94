@@ -17,16 +17,17 @@ About Me With over 3 years of experience in HTML5, CSS3, JavaScript, TypeScript,
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="52" height="52" alt="GitHub" />
       </picture>
     </div>
   </a>
+  <hr>
   <a href="https://www.linkedin.com/in/evanwcodes" target="_blank" rel="noreferrer" style="text-decoration: none; display: inline-block; margin: 10px;">
     <div style="padding: 10px; border: 2px solid #e1e4e8; border-radius: 8px; transition: transform 0.2s;">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="52" height="52" alt="LinkedIn" />
       </picture>
     </div>
   </a>
