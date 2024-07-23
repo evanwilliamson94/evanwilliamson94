@@ -4,7 +4,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-About Me With over 3 years of experience in HTML5, CSS3, JavaScript, TypeScript, React, Redux, and Firebase, I have successfully developed and maintained various web applications. My work is characterized by a focus on responsive design, user-friendly interfaces, and performance optimization. Key Accomplishments Twitter Clone: Developed a full-featured Twitter clone using React, Redux, Firebase, and Tailwind CSS. Implemented user authentication, real-time updates, and responsive design. Project Link E-commerce Business: Founded and led an e-commerce website, utilizing HTML5, CSS3, JavaScript, and React. Implemented SEO, dynamic carousels, and countdowns for a mobile-first experience. Achieved a profitable exit. Ultraverse NFT WORLD: Contributed to an NFT marketplace by adding Hot Collections, New Items, Top Sellers, Author Page, and Item Details. Integrated animations and real-time API data fetching. Technologies Languages: HTML5, CSS3, JavaScript, TypeScript Frameworks & Libraries: React, Redux, Tailwind CSS, MaterialUI Backend & Database: Firebase (Authentication, Firestore) Tools: GitHub, Vite, Webpack, Jest, Cypress, Netlify, Azure Get in Touch I'm always open to new opportunities and collaborations. Feel free to connect with me on LinkedIn or check out my portfolio.
+<h2>About Me</h2>
+<p>With over <strong style="color: #4CAF50;">3 years of experience</strong> in <strong>HTML5, CSS3, JavaScript, TypeScript, React, Redux, and Firebase</strong>, I have successfully developed and maintained various web applications. My work is characterized by a focus on <strong style="color: #2196F3;">responsive design</strong>, <strong style="color: #2196F3;">user-friendly interfaces</strong>, and <strong style="color: #2196F3;">performance optimization</strong>.</p>
+
+<h3>Key Accomplishments</h3>
+<ul>
+  <li><strong style="color: #FF5722;">Twitter Clone</strong>: Developed a full-featured Twitter clone using <strong>React, Redux, Firebase</strong>, and <strong>Tailwind CSS</strong>. Implemented user authentication, real-time updates, and responsive design. <a href="https://tweet-clone-beryl.vercel.app/" style="color: #FFC107;"><strong>Project Link</strong></a></li>
+  <li><strong style="color: #FF5722;">E-commerce Business</strong>: Founded and led an e-commerce website, utilizing <strong>HTML5, CSS3, JavaScript</strong>, and <strong>React</strong>. Implemented <strong style="color: #8BC34A;">SEO</strong>, <strong style="color: #8BC34A;">dynamic carousels</strong>, and <strong style="color: #8BC34A;">countdowns</strong> for a <strong style="color: #8BC34A;">mobile-first experience</strong>. Achieved a profitable exit.</li>
+  <li><strong style="color: #FF5722;">Ultraverse NFT WORLD</strong>: Contributed to an NFT marketplace by adding <strong>Hot Collections, New Items, Top Sellers, Author Page</strong>, and <strong>Item Details</strong>. Integrated <strong style="color: #9C27B0;">animations</strong> and real-time <strong style="color: #9C27B0;">API data fetching</strong>.</li>
+</ul>
+
+<h3>Technologies</h3>
+<ul>
+  <li><strong style="color: #00BCD4;">Languages</strong>: HTML5, CSS3, JavaScript, TypeScript</li>
+  <li><strong style="color: #00BCD4;">Frameworks & Libraries</strong>: React, Redux, Tailwind CSS, MaterialUI</li>
+  <li><strong style="color: #00BCD4;">Backend & Database</strong>: Firebase (Authentication, Firestore)</li>
+  <li><strong style="color: #00BCD4;">Tools</strong>: GitHub, Vite, Webpack, Jest, Cypress, Netlify, Azure</li>
+</ul>
+
+<h3>Get in Touch</h3>
+<p>I'm always open to new opportunities and collaborations. Feel free to connect with me on <a href="https://www.linkedin.com/in/evanwcodes/" style="color: #0077B5;"><strong>LinkedIn</strong></a> or check out my <a href="https://evanwdev.dev" style="color: #0077B5;"><strong>portfolio</strong></a>.</p>
+and collaborations. Feel free to connect with me on LinkedIn or check out my portfolio.
 
 *   🌍  I'm based in Dallas, Texas 
 <p align="left">
