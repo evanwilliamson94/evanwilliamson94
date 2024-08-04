@@ -23,7 +23,7 @@ Software Engineer
 </ul>
 
 <h3>Get in Touch</h3>
-<p>I'm always open to new opportunities and collaborations. Feel free to connect with me on <a href="https://www.linkedin.com/in/evanwcodes/" style="color: #0077B5;"><strong>LinkedIn</strong></a> or check out my <a href="https://evanwdev.dev" style="color: #0077B5;"><strong>portfolio</strong></a>.</p>
+<p>I'm always open to new opportunities and collaborations. Feel free to connect with me on <a href="https://www.linkedin.com/in/evanwcodes/" style="color: #0077B5;"><strong>LinkedIn</strong></a> or check out my <a href="https://evanwilliamson94-portfolio.vercel.app/" style="color: #0077B5;"><strong>portfolio</strong></a>.</p>
 and collaborations. Feel free to connect with me on LinkedIn or check out my portfolio.
 
 *   🌍  I'm based in Dallas, Texas 
