@@ -111,3 +111,11 @@
     font-size: 36px;
   }
 }
+.workCard--head h3 a {
+  color: inherit;          
+  text-decoration: none;   
+}
+
+.workCard--head h3 a:hover {
+  color: var(--main);      
+}

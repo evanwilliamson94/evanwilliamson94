@@ -1,40 +1,28 @@
 [
   {
-    "company": "preezie",
-    "role": "Software Developer (Frontend)",
+    "company": "Ultraverse NFT WORLD",
+    "role": "Software Developer (Intern)",
     "resps": [
-      "Developed a scalable web widget for 900,000 users, amplifying user satisfaction while ensuring seamless maintenance.",
-      "Revamped CI/CD pipelines through Bitbucket Pipelines and Azure Devops, slashing deployment time and enhancing agility.",
-      "Showcased expertise in diverse development areas, fostering a versatile and adaptable workforce.",
-      "Led innovative proof of concepts, driving continuous product improvement.",
-      "Steered the rapid transformation of a CMS into a production-ready application within a 3-month timeline.",
-      "Provided pivotal support for client deployments, enabling the business to gain value rapidly.",
-      "Architected a backend system to continuously monitor the uptime of all user interfaces, ensuring optimal performance.",
-      "Streamlined widget implementation by condensing it into a single-line code snippet, enhancing accessibility and ease of integration.",
-      "Revamped 15+ landing pages within a two-week timeframe in anticipation of investor discussion.",
-      "Revitalized and modernized legacy code into a new, customer-centric UI that received great feedback from our customer success team, enhancing user experience and satisfaction.",
-      "Recognized for accelerated growth and proactive leadership, advancing to further levels of software development.",
-      "Demonstrated adeptness in spearheading projects, selecting optimal tech stacks, and consistently delivering project outcomes.",
-      "Recognized as the company’s ‘Values Champion of 2022’ for embodying an unwavering commitment to the business, supporting reliably and being dependable.",
-      "Partook in an Open-AI proof of concept for a product recommendation quiz, mostly working on the frontend."
+      "Enhanced User Engagement: Developed and integrated features like Hot Collections, New Items, Top Sellers, Author Page, and Item Details, which enriched the platform's content offerings and provided users with more personalized and relevant information, leading to increased user interaction.",
+      "Enhanced User Experience: Implemented animations, countdowns, and carousels that created a more dynamic and engaging user interface, leading to a smoother and more interactive browsing experience for users.",
+      "Real-Time Data Integration: Utilized APIs to provide real-time data updates, improving the relevance and timeliness of displayed content.",
+      "Streamlined Development Workflow: Managed project development with GitHub, ensuring smooth collaboration by maintaining separate branches for each feature."
     ],
-    "date": "Aug 2021 - Current"
+    "date": "May 2024 - July 2024"
   },
   {
-    "company": "Frontend Simplified",
-    "role": "Programming mentor & Tutor",
+    "company": "Patch To Life-(sold company)",
+    "role": "Founder & Lead Developer",
     "resps": [
-      "Designed and implemented personalized learning plans tailored to each student's skill level and learning style.",
-      "Conducted weekly coding workshops to cover advanced topics and industry best practices in Frontend development.",
-      "Provided constructive feedback and code reviews to help students improve their coding skills and address areas of improvement.",
-      "Created and curated a comprehensive set of educational resources, including coding exercises, projects, and documentation, to support the learning process.",
-      "Collaborated with other mentors to develop and refine the curriculum, ensuring it stays current with the latest trends and technologies in Frontend development.",
-      "Organized and participated in regular one-on-one mentoring sessions to address individual student challenges and provide additional guidance.",
-      "Facilitated group discussions and coding challenges to promote a collaborative and engaging learning environment.",
-      "Stayed updated on industry advancements and emerging technologies to incorporate relevant and cutting-edge content into the curriculum.",
-      "Initiated and managed community-building activities, fostering a sense of camaraderie among students and promoting a positive learning culture.",
-      "Monitored and tracked the progress of each student, celebrating milestones and proactively addressing any obstacles to ensure a successful learning journey."
+      "Built a Profitable Business: Founded and scaled an e-commerce business, leading to a successful exit by implementing a robust front-end architecture using HTML5, CSS, and JavaScript, resulting in a seamless user experience.",
+      "Increased Operational Efficiency: Utilized Firebase for backend services, including user authentication and real-time database management, reducing customer support response times ",
+      "Boosted Organic Traffic: Integrated SEO best practices that increased search engine visibility, driving a rise in organic traffic.",
+      "Ensured High Availability: Implemented backend monitoring for UI uptime with automated email alerts, maintaining a 99.9% uptime and enhancing customer satisfaction.",
+      "Effective Product Marketing: Developed dynamic carousels and countdowns, particularly optimized for mobile devices, significantly improving product visibility and sales conversion rates.",
+      "Successfully scaled the business, resulting in a profitable exit."
+      
     ],
-    "date": "Aug 2021 - Dec 2022"
+    "date": "Oct 2019 - Nov 2023"
   }
 ]
+

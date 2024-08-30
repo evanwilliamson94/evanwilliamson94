@@ -5,8 +5,9 @@ import { motion, useAnimation } from "framer-motion"
 import { useInView } from "react-intersection-observer"
 import FadeText from "../FadeText"
 import HideText from "../HideText"
+import React from "react"
 
-export default function TechCard({ item }) {
+export default function TechCard({ item, link }) {
   const controls = useAnimation()
   const [ref, inView] = useInView()
   const [hasAnimated, setHasAnimated] = useState(false)
@@ -43,8 +44,16 @@ export default function TechCard({ item }) {
   return (
     <div ref={ref} className="workCard">
       <div className="workCard--head">
-        <h3>
-          <TextWriting delay={delay} nocursor controls={controls} stagger={0.08} text={item.client} />
+      <h3>
+         
+          {item.url ? (
+            <a href={item.url} target="_blank" rel="noopener noreferrer">
+              <TextWriting delay={delay} nocursor controls={controls} stagger={0.08} text={item.client} />
+            </a>
+          ) : (
+            <TextWriting delay={delay} nocursor controls={controls} stagger={0.08} text={item.client} />
+          )}
+         
         </h3>
         <h3>
           <TextWriting delay={delay} nocursor controls={controls} stagger={0.08} text={item.year} />
